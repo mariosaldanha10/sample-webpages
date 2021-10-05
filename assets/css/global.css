@@ -49,4 +49,9 @@ p {
     font-size: 20px;
     margin-bottom: 16px;
 }
-
+/*Images*/
+img {
+    margin-bottom: 32px;
+    /*Soften corners of images*/
+    border-radius: 15px;
+}
